@@ -24,3 +24,7 @@ function multiply(a, b) {
   return a * b
 }
 ```
+***
+## Experience
+* My first project on HTML and CSS - [Burning Man](https://olgaskopintseva.github.io/burning-man/)
+***
