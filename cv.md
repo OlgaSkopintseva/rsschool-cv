@@ -12,3 +12,7 @@ At the moment, my main goal is to take RS School courses and expand my skills in
 
 My strengths include perseverance, a willingness to analyze and solve problems, and a desire to gain new knowledge. Although at the moment I am still quite a beginner and I have practically no work experience, this will not interfere with my desire for learning and development. On the contrary, I have a bright goal to which I can aspire.
 ***
+## Skills
+* HTML5, CSS3
+* Figma
+* VS Code
