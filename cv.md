@@ -28,3 +28,7 @@ function multiply(a, b) {
 ## Experience
 * My first project on HTML and CSS - [Burning Man](https://olgaskopintseva.github.io/burning-man/)
 ***
+## Courses
+* Initial 2-week GoIT courses
+* Independent training in layout
+***
