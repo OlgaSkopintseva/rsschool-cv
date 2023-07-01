@@ -16,3 +16,11 @@ My strengths include perseverance, a willingness to analyze and solve problems, 
 * HTML5, CSS3
 * Figma
 * VS Code
+
+***
+## Code example 
+```js
+function multiply(a, b) {
+  return a * b
+}
+```
