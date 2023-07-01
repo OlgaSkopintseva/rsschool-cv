@@ -32,3 +32,7 @@ function multiply(a, b) {
 * Initial 2-week GoIT courses
 * Independent training in layout
 ***
+## Languages 
+* English - my level is in the range of __B1 Intermediate__ to __B2 Upper Intermediate__  
+* Ukrainian - native language
+* Russian - native language 
