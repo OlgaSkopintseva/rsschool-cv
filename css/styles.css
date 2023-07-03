@@ -126,3 +126,21 @@
   text-decoration-line: underline;
   color: #765153;
 }
+
+.education {
+  margin-bottom: 42px;
+}
+
+.education-title {
+  font-weight: 600;
+  font-size: 27px;
+  color: #000;
+}
+
+.education-item {
+  color: #765153;
+}
+
+.education-item-description {
+  color: #000;
+}
