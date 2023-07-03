@@ -249,3 +249,30 @@
 .language-item-description {
   color: #000;
 }
+
+.footer {
+  height: 100px;
+  background: #8b7777;
+  display: flex;
+  align-items: center;
+  margin: 0;
+  justify-content: space-around;
+}
+
+.footer-item-link {
+  color: #fff;
+  font-size: 16px;
+  text-decoration: none;
+  margin: 0;
+}
+
+.footer-logo {
+  width: 80px;
+}
+
+.footer-year {
+  font-size: 15px;
+  font-weight: 500;
+  color: #fff;
+  margin: 0px;
+}
