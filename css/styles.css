@@ -95,3 +95,34 @@
   padding: 4px;
   font-size: 105%;
 }
+
+.work-experience {
+  margin-bottom: 42px;
+}
+
+.work-experience-title {
+  font-weight: 600;
+  font-size: 27px;
+  color: #000;
+}
+
+.work-experience-item {
+  color: #765153;
+}
+
+.work-experience-item-description {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000;
+}
+
+.work-experience-item-link {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  text-decoration-line: underline;
+  color: #765153;
+}
