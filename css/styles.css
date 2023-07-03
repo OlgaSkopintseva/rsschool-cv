@@ -144,3 +144,21 @@
 .education-item-description {
   color: #000;
 }
+
+.language {
+  margin-bottom: 42px;
+}
+
+.language-title {
+  font-weight: 600;
+  font-size: 27px;
+  color: #000;
+}
+
+.language-item {
+  color: #765153;
+}
+
+.language-item-description {
+  color: #000;
+}
