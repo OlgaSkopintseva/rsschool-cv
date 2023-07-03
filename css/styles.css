@@ -41,3 +41,40 @@
 .navigation-link:hover {
   color: #804f51;
 }
+
+.about {
+  margin-bottom: 42px;
+}
+
+.about-name {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+  color: #2b2525;
+  margin: 25px 0 25px 0;
+}
+
+.about-profession {
+  font-style: italic;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 17px;
+  color: #000000;
+  margin-top: 0px;
+}
+
+.about-title {
+  font-weight: 600;
+  font-size: 27px;
+  color: #000;
+}
+
+.about-description {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000;
+  width: 670px;
+}
