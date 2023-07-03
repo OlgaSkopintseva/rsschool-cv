@@ -11,6 +11,93 @@
   justify-content: center;
 }
 
+.sidebar {
+  width: 500px;
+  background: #b39e9f;
+}
+
+.profile-picture {
+  display: block;
+  border-radius: 50%;
+  width: 270px;
+  margin: 60px auto;
+}
+
+.contacts {
+  margin: 48px 0 0 40px;
+}
+
+.contacts-title {
+  font-weight: 600;
+  font-size: 27px;
+  color: #fff;
+}
+
+.contacts-item {
+  margin: 0;
+}
+
+.contacts-type {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #fff;
+  margin-right: 8px;
+}
+
+.tel {
+  text-decoration: none;
+  color: #fff;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.contacts-item-link {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  text-decoration: none;
+  color: #765153;
+}
+
+.tech-skills {
+  text-decoration: none;
+  color: #fff;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  margin: 48px 0 0 40px;
+}
+
+.tech-skills-title {
+  font-weight: 600;
+  font-size: 27px;
+  color: #fff;
+  margin-bottom: 0px;
+}
+
+.skill-lists {
+  margin: 0;
+  padding: 0 0 0 20px;
+}
+
+.skill-lists-item {
+  color: #765153;
+}
+
+.skill-lists-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #fff;
+}
+
 .main {
   background-color: #fff;
   margin: 0 auto;
