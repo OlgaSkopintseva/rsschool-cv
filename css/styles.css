@@ -1,0 +1,279 @@
+.page {
+  background-color: #ddd0d1;
+  padding: 60px 0;
+  font-family: "Montserrat", sans-serif;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.sidebar {
+  width: 500px;
+  background: #b39e9f;
+}
+
+.profile-picture {
+  display: block;
+  border-radius: 50%;
+  width: 270px;
+  margin: 60px auto;
+}
+
+.contacts {
+  margin: 48px 0 0 40px;
+}
+
+.contacts-title {
+  font-weight: 600;
+  font-size: 27px;
+  color: #fff;
+  margin: 0 0 20px 0;
+}
+
+.contacts-item {
+  margin: 0;
+}
+
+.contacts-type {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #fff;
+  margin-right: 8px;
+}
+
+.tel {
+  text-decoration: none;
+  color: #fff;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.contacts-item-link {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  text-decoration: none;
+  color: #765153;
+}
+
+.tech-skills {
+  text-decoration: none;
+  color: #fff;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  margin: 48px 0 0 40px;
+}
+
+.tech-skills-title {
+  font-weight: 600;
+  font-size: 27px;
+  color: #fff;
+  margin: 0 0 20px 0;
+}
+
+.skill-lists {
+  margin: 0;
+  padding: 0 0 0 20px;
+}
+
+.skill-lists-item {
+  color: #765153;
+}
+
+.skill-lists-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #fff;
+}
+
+.main {
+  background-color: #fff;
+  margin: 0 auto;
+  padding: 40px 88px 0 88px;
+}
+
+.navigation {
+  display: flex;
+  text-align: center;
+}
+
+.navigation-links {
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  column-gap: 40px;
+  padding: 0;
+}
+
+.navigation-link {
+  color: #000000;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 16px;
+  transition: color 0.3s linear;
+}
+
+.navigation-link:hover {
+  color: #804f51;
+}
+
+.about {
+  margin-bottom: 42px;
+}
+
+.about-name {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+  color: #2b2525;
+  margin: 25px 0 25px 0;
+}
+
+.about-profession {
+  font-style: italic;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 17px;
+  color: #000000;
+  margin-top: 0px;
+}
+
+.about-title {
+  font-weight: 600;
+  font-size: 27px;
+  color: #000;
+}
+
+.about-description {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000;
+  width: 670px;
+}
+
+.project {
+  margin-bottom: 42px;
+}
+
+.project-title {
+  font-weight: 600;
+  font-size: 27px;
+  color: #000;
+}
+
+.code {
+  font-family: Consolas, "courier new";
+  color: black;
+  padding: 4px;
+  font-size: 105%;
+}
+
+.work-experience {
+  margin-bottom: 42px;
+}
+
+.work-experience-title {
+  font-weight: 600;
+  font-size: 27px;
+  color: #000;
+}
+
+.work-experience-item {
+  color: #765153;
+}
+
+.work-experience-item-description {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000;
+}
+
+.work-experience-item-link {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  text-decoration-line: underline;
+  color: #765153;
+}
+
+.education {
+  margin-bottom: 42px;
+}
+
+.education-title {
+  font-weight: 600;
+  font-size: 27px;
+  color: #000;
+}
+
+.education-item {
+  color: #765153;
+}
+
+.education-item-description {
+  color: #000;
+}
+
+.language {
+  margin-bottom: 42px;
+}
+
+.language-title {
+  font-weight: 600;
+  font-size: 27px;
+  color: #000;
+}
+
+.language-item {
+  color: #765153;
+}
+
+.language-item-description {
+  color: #000;
+}
+
+.footer {
+  height: 100px;
+  background: #8b7777;
+  display: flex;
+  align-items: center;
+  margin: 0;
+  justify-content: space-around;
+}
+
+.footer-item-link {
+  color: #fff;
+  font-size: 16px;
+  text-decoration: none;
+  margin: 0;
+}
+
+.footer-logo {
+  width: 80px;
+}
+
+.footer-year {
+  font-size: 15px;
+  font-weight: 500;
+  color: #fff;
+  margin: 0px;
+}
